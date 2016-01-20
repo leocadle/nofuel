@@ -9,4 +9,7 @@
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/130365-105-nofuel-all-tanks-defueled/"
     }
+    "depends": [
+        { "name": "ModuleManager" }
+    ]
 }
